@@ -18,4 +18,6 @@ public class PointApplication {
         applicationContext =
             SpringApplication.run(PointApplication.class, args);
     }
+
+    //test2
 }
